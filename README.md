@@ -5,5 +5,5 @@
 Para rodar esse oprojeto em sua máquina por favor digite:
 
 ```
-npm install freeza.react 
+node app.js 
 ```
